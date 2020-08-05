@@ -4,7 +4,7 @@
 
 ![](/src/assets/images/frontend.png)
 
-Projeto Proffy da NLW - New Level Week da [Rocketseat](https://nextlevelweek.com/). Sendo esse projeto a parte backend.
+Projeto Proffy da NLW - New Level Week da [Rocketseat](https://nextlevelweek.com/). Sendo esse projeto a parte backend. Acesse o projeto frontend aqui [NLW-2-WEB](https://github.com/rcbus/nlw-2-web).
 
 ## Sobre o Projeto
 
