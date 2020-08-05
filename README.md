@@ -2,6 +2,8 @@
 
 # NLW - 2 - SERVER
 
+![](/src/assets/images/frontend.png)
+
 Projeto Proffy da NLW - New Level Week da [Rocketseat](https://nextlevelweek.com/). Sendo esse projeto a parte backend.
 
 ## Sobre o Projeto
